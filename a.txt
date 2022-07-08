@@ -1,0 +1,11 @@
+ El volumen de la unidad C es OS
+ El n£mero de serie del volumen es: 2C40-E663
+
+ Directorio de C:\100-git\HelloWorld
+
+08/07/2022  13:21    <DIR>          .
+08/07/2022  13:21    <DIR>          ..
+08/07/2022  13:21                 0 a.txt
+08/07/2022  13:13    <DIR>          HelloWorld
+               1 archivos              0 bytes
+               3 dirs  370.261.917.696 bytes libres
